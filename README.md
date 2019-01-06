@@ -6,4 +6,4 @@
 
 ## 提问 Add Issue
 
-#### https://github.com/riboseyim/riboseyim.com.comment/issues 
+#### https://github.com/riboseyim/riboseyim.com.comment/issues/new
